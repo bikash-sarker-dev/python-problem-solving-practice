@@ -16,12 +16,12 @@ multiplication = f_num * s_num
 division = f_num / s_num
 
 
-print("Hello, ", name)
-print("our age is:", age)
+print(f"Hello, {name}")
+print(f"our age is: {age}" )
 
 print("-----------------")
 
-print("Addition :", addition)
-print("Subtraction :", subtraction)
-print("Multiplication :", multiplication)
-print("Division :", division)
+print(f"Addition : {addition}")
+print(f"Subtraction : {subtraction}" )
+print(f"Multiplication : {multiplication}" )
+print(f"Division : {division}")
